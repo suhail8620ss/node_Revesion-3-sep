@@ -1,0 +1,9 @@
+Get /users - List all users
+
+Get /users/2 = get the user id 2
+
+Post /users - create new user 
+
+patch /users  - Edit the user  with id 2
+
+Delete /users2  - delete the user with id  2
